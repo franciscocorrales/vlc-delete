@@ -21,7 +21,7 @@ function descriptor()
 		version = "0.1";
 		author = "surrim";
 		url = "https://github.com/surrim/vlc-delete/";
-		shortdesc = "&Remove current file from playlist and filesystem";
+		shortdesc = "Remove current file from playlist and filesystem";
 		description = [[
 <h1>vlc-delete</h1>"
 When you're playing a file, use VLC Delete to
